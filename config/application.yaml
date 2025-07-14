@@ -1,6 +1,6 @@
 cry:
   profiles:
-    active: test
+    active: dev
   api:
     baseUrl: ${api.baseUrl}
     connectTimeout: 10000
