@@ -1,12 +1,8 @@
 # FLUTTER_ADMIN
-![GitHub](https://img.shields.io/github/license/cairuoyu/flutter_admin)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/cairuoyu/flutter_admin)
-![GitHub repo size](https://img.shields.io/github/repo-size/cairuoyu/flutter_admin?color=yellow)
-![Flutter version](https://img.shields.io/badge/flutter-3.19.6-green)
 
 > [简体中文](./README.md) | English
 
-> A Background Management System Implemented Using Flutter.This project for the front end, the corresponding back-end to https://github.com/cairuoyu/flutter_admin_backend
+> A Background Management System Implemented Using Flutter.This project for the front end, the corresponding back-end to https://github.com/zhuanggdaoyuan-hk/flutter_admin_backend
 
 > As a template, example and demonstration for developing multi-terminal applications such as Web, Android, IOS, Windows, MacOS and Linux based on Flutter, this project provides a variety of implementation methods in terms of functions and is constantly being improved. With this project, you can learn Flutter efficiently or quickly develop a new cross-end application.
 
@@ -109,9 +105,6 @@ flutter build windows
 flutter build apk
 ```
 
-## live demo
-http://www.cairuoyu.com/flutter_admin
-
 ### web
 ![image](http://cairuoyu.com/screenshots/flutter_admin1.gif)
 ![image](http://cairuoyu.com/screenshots/flutter_admin2.gif)
@@ -122,24 +115,3 @@ http://www.cairuoyu.com/flutter_admin
 ![image](http://cairuoyu.com/screenshots/flutter_admin_role_user.png)
 ![image](http://cairuoyu.com/screenshots/flutter_admin_personEdit.png)
 ![image](http://cairuoyu.com/screenshots/flutter_admin_menu.png)
-
-### android
-<img src="http://cairuoyu.com/screenshots/flutter_admin_dashboard_app.png" width="50%" alt="dashboard"/>
-<img src="http://cairuoyu.com/screenshots/flutter_admin_setting_app.png" width="50%" alt="'setting"/>
-
-### windows
-![image](http://cairuoyu.com/screenshots/flutter_admin_windows.png)
-
-## Join Discussion Group
-### Add me to WeChat to pull you into the group
-#### Please add a note when applying: flutter_admin
-![image](http://cairuoyu.com/screenshots/qrcode_wechat_cry.png)
-
-### QQ
-851796663
-
-## Donate
-
-![](http://cairuoyu.com/screenshots/pay.png)
-
-[Paypal Me](https://www.paypal.me/cairuoyu)

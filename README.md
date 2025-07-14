@@ -6,7 +6,7 @@
 
 >  简体中文 | [English](./README.en.md)
 
-> 使用flutter实现的一个后台管理系统。本项目为前端，对应的后端为 https://github.com/cairuoyu/flutter_admin_backend
+> 使用flutter实现的一个后台管理系统。本项目为前端，对应的后端为 https://github.com/zhuangdaoyuan-hk/flutter_admin_backend
 
 > 本项目作为一个基于Flutter开发Web、Android、iOS、Windows、macOS、Linux等多端应用程序的模板、例子、演示，在功能上提供多种实现方式，而且不断地在完善。通过这个项目，可以高效学习Flutter或快速地开发一个新的跨端应用。
 
@@ -109,8 +109,7 @@ flutter build windows
 flutter build apk
 ```
 
-## live demo
-http://www.cairuoyu.com:81/flutter_admin
+
 
 ### web
 ![image](./screenshots/flutter_admin1.gif)
@@ -122,27 +121,3 @@ http://www.cairuoyu.com:81/flutter_admin
 ![image](./screenshots/flutter_admin_role_user.png)
 ![image](./screenshots/flutter_admin_personEdit.png)
 ![image](./screenshots/flutter_admin_menu.png)
-
-### android
-![image](./screenshots/flutter_admin_dashboard_app.png)
-![image](./screenshots/flutter_admin_setting_app.png)
-
-### windows
-![image](./screenshots/flutter_admin_windows.png)
-
-## 加入讨论组
-
-### 加我微信拉你入群
-#### 申请时请添加备注：flutter_admin
-![image](./screenshots/qrcode_wechat_cry.png)
-
-### QQ
-851796663
-
-
-
-## 赞助
-
-![](./screenshots/pay.png)
-
-[Paypal Me](https://www.paypal.me/cairuoyu)
